@@ -1,59 +1,59 @@
 #EXTM3U
 
-#EXTINF:0,LOCAL - [042] INSERT ok
+#EXTINF:0,LOCAL - [042] INSERT
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.113:8652
-#EXTINF:0,LOCAL - [186] ONE ok
+#EXTINF:0,LOCAL - [186] ONE
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.2.21:8100
-#EXTINF:0,LOCAL - [189] CNA ok
+#EXTINF:0,LOCAL - [189] CNA
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.2.23:8112
-#EXTINF:0,LOCAL - [190] AFN ok
+#EXTINF:0,LOCAL - [190] AFN
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.2.13:8052
-#EXTINF:0,LIFESTYLE - [043] Eat and Go ok
+#EXTINF:0,LIFESTYLE - [043] Eat and Go
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.229:9350
-#EXTINF:0,MUSIC - [453] PRAMBORS (Trial) ok
+#EXTINF:0,MUSIC - [453] PRAMBORS (Trial)
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.227:9336
-#EXTINF:0,GEN ENT - [052] Dunia Lain ok
+#EXTINF:0,GEN ENT - [052] Dunia Lain
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.149:8868
-#EXTINF:0,GEN ENT - [523] K-Plus (Trial) ok
+#EXTINF:0,GEN ENT - [523] K-Plus (Trial)
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.242:9426
-#EXTINF:0,GEN ENT - [574] HITS ok
+#EXTINF:0,GEN ENT - [574] HITS
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.2.171:9000
-#EXTINF:0,GEN ENT - [577] WB TV ok
+#EXTINF:0,GEN ENT - [577] WB TV
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.2.9:8028
-#EXTINF:0,MOVIES - [060] Bioskop Indonesia ok
+#EXTINF:0,MOVIES - [060] Bioskop Indonesia
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.226:9332
-#EXTINF:0,MOVIES - [119] Flik ok
+#EXTINF:0,MOVIES - [119] Flik
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.71:8400
-#EXTINF:0,MOVIES - [617] GALAXY (Trial) ok
+#EXTINF:0,MOVIES - [617] GALAXY (Trial)
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.184:8778
-#EXTINF:0,MOVIES - [000] HBO Hits (HD) ok
+#EXTINF:0,MOVIES - [000] HBO Hits (HD)
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.215:9264
-#EXTINF:0,MOVIES - [000] Paramount Network ok
+#EXTINF:0,MOVIES - [000] Paramount Network
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.211:9240
-#EXTINF:0,MOVIES - [000] MFC My Family Channel ok
+#EXTINF:0,MOVIES - [000] MFC My Family Channel
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.237:9396
-#EXTINF:0,MOVIES - [000] HBO (HD) ok
+#EXTINF:0,MOVIES - [000] HBO (HD)
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.203:9192
-#EXTINF:0,SPORTS - [000] Max Stream ok
+#EXTINF:0,SPORTS - [000] Max Stream
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.205:9204
-#EXTINF:0,KIDS - [000] Fun Planet ok
+#EXTINF:0,KIDS - [000] Fun Planet
 #EXTVLCOPT:network-caching=1000
 rtp://@239.1.1.201:9180
